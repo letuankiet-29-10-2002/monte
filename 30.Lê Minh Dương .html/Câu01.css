@@ -1,0 +1,34 @@
+/* *{
+    background-color: blueviolet;
+} */
+strong{
+    color:rgb(24, 134, 224);
+}
+h1{
+    font-size: 40px;
+}
+body{
+    margin: 130px;
+    text-align: center;
+}
+
+.box { 
+    margin-top: 35px;
+}
+.box li {
+    display: inline;
+    margin: 0 20px;
+}
+span.b {
+    border-radius: 7px;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    background-color:black; 
+    color: azure;
+    line-height: 40px;
+  }
+.box li span:hover{
+    background-color: #1b9ece;
+}
