@@ -1,0 +1,28 @@
+* {
+    margin: 15px 80px;
+    padding: 0;
+}
+h1{
+   font-family: Verdana 80px;
+}
+div{
+    display: inline-block;
+    width: 80%;
+    height:500px;
+    background-color: gray;
+    margin: 15px 80px 20px;
+
+
+}
+button{
+    background-color: rgb(19, 153, 153);
+    width: 150px;
+    height: 70px;
+    border-radius: 7px;
+    border-style: none;
+    font-size: 20px;
+    color:white
+}
+button:hover{
+    background-color: rgb(64, 96, 97);
+}
